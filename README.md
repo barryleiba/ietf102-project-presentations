@@ -7,4 +7,6 @@ After the hackathon, the contents of this repo will be copied to the Hackathon p
 You must be a [member](https://github.com/orgs/IETF-Hackathon/people) of the [IETF-Hackathon](https://github.com/IETF-Hackathon) GitHub org to upload a new presentation or update/replace an existing presentation. 
 To be added as a member, send your GitHub ID to [Charles Eckel](mailto:eckelcu@cisco.com) at your earliest convenience. DO NOT WAIT until just before hackathon project presentations start or your request may be lost in the chaos.
 
+**Vote for the best project here: https://bit.ly/2KZNjpd **
+
 For more info on the hackathon, including the complete and updated agenda, please see the [Hackathon Wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/102hackathon).
